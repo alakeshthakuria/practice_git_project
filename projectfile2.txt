@@ -1,2 +1,4 @@
 This is project file 2.
 
+Add details about project file 2.
+
